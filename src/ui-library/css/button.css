@@ -8,20 +8,37 @@
     border-radius: 5px;
     box-shadow: -0.5px 0.75px 1px rgba(0, 0, 0, 0.5);
     padding:5px 15px;
+    cursor: pointer;
 }
+
 
 .blue {
     background-color: #3679F5;
+}
+.blue:active {
+    background-color: #1048b1e1;
 }
 
 .green {
     background-color: #289145;
 }
 
+.green:active {
+    background-color: #1c6431;
+}
+
 .red {
     background-color:#E93B2D;
 }
 
+.red:active {
+    background-color: #9b261e;
+}
+
 .yellow {
     background-color: #DD9916;
+}
+
+.yellow:active {
+    background-color: #a8771c;
 }
