@@ -1,0 +1,27 @@
+.btn {
+    height: 50px;
+    font-weight: 100;
+    font-size:20px;
+    color:white;
+    outline: none;
+    border:0px;
+    border-radius: 5px;
+    box-shadow: -0.5px 0.75px 1px rgba(0, 0, 0, 0.5);
+    padding:5px 15px;
+}
+
+.blue {
+    background-color: #3679F5;
+}
+
+.green {
+    background-color: #289145;
+}
+
+.red {
+    background-color:#E93B2D;
+}
+
+.yellow {
+    background-color: #DD9916;
+}
