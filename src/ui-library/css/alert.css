@@ -1,0 +1,28 @@
+.alert {
+    width:450px;
+    height: 50px;
+    margin:5px;
+    
+    color:white;
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 5px;
+
+    font-weight: 100;
+    font-size:20px;
+}
+
+#b-alert {
+    background-color: #EB5E55;
+    color:#a04039;
+    border:2px solid #a04039;
+}
+
+#r-alert {
+    background-color: #279AF1;
+    color:#145e96;
+    border:2px solid #145e96;
+}
