@@ -1,0 +1,5 @@
+class Alert {
+    constructor(){
+        
+    }
+}
