@@ -7,8 +7,7 @@ class Alert {
     }
 
     init(){
-        console.log(this.alert);
-        console.log(this.class);
+        
     }
 }
 
